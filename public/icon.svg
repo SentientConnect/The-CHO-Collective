@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="The CHO Collective">
+  <rect width="180" height="180" rx="38" fill="#44206f"/>
+  <path d="M42 69 59 43l18 23 14-31 14 31 18-23 17 26-8 35H50Z" fill="#f4c451"/>
+  <circle cx="59" cy="43" r="6" fill="#f4c451"/>
+  <circle cx="91" cy="33" r="6" fill="#f4c451"/>
+  <circle cx="123" cy="43" r="6" fill="#f4c451"/>
+  <text x="90" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" letter-spacing="2" fill="#fff9ec">CHO</text>
+</svg>
